@@ -33,7 +33,7 @@ namespace CacheInitializer
             //////Setup 
             Options options = new Options();
             Uri serverURL;
-            string appname;
+            string appname, appid;
             bool openSheets;
             string virtualProxy;
             QlikSelection mySelection = null;
