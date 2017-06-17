@@ -244,3 +244,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+CacheInitializer/readme.txt
+CacheInitializer/obj/Debug/CacheInitializer.csproj.FileListAbsolute.txt
+CacheInitializer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+CacheInitializer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
